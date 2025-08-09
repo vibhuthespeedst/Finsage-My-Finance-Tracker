@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-🔗 **[Finsage – Live Deployment]([https://your-live-deployment-link.com](https://finsage-my-finance-tracker.vercel.app/))**
+🔗 **[Finsage – Live Deployment](https://finsage-my-finance-tracker.vercel.app/)**
 
 **Test User Login:**
 
